@@ -23,7 +23,7 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 - That´s the sole reason why this tool exists. :grin:
 
 ### Notes
-- The tool is written in Rust.
+- The tool is written in `Rust`.
 - The release binaries are compiled with `cargo`/`rustc` on a 64-bit Windows 10 machine.
 - The Windows version was: `Windows 10 Pro 21H2 Build 19044.2486`.
 - The Rust version was: `Rust 1.65.0`.
