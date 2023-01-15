@@ -25,7 +25,7 @@ Telekom is the largest ISP company in Germany. Their main DNS server is a rather
 
 - 64-bit Windows
 
-There are not any other special requirements. The tool is written in Rust and the release binaries are natively compiled with `rustc` for the Windows x64 platform, assuming you are using some 64-bit Windows (and that's quite likely).
+There aren´t any other special requirements. The tool is written in Rust and the release binaries are natively compiled with `rustc` for the Windows x64 platform, assuming you are using some 64-bit Windows (and that's quite likely).
 
 ### Notes
 - The tool is written in Rust.
