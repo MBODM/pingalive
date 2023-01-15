@@ -32,7 +32,7 @@ There aren´t any other special requirements. The tool is written in Rust and th
 - The Rust version was `rustc 1.65.0`
 - The release binaries are compiled with `cargo`/`rustc` on a 64-bit Windows 10 machine
 - The Windows version was `Windows 10 Pro 21H2 Build 19044.2486`
-- The tool was developed with `VS Code 1.74.2` and an installed `rust-analyzer` extension
+- The tool was developed with `VS Code 1.74.2` with `rust-analyzer` extension installed
 
 The tool is compiled with the following compiler options in `cargo.toml` file:
 ```rust
