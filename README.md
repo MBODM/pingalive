@@ -19,7 +19,7 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 - At least not in a way it works properly (maybe i´m just too stupid, but all tries had some issues).
 - So i decided to quickly write a tiny executable doing that job instead.
 - Then i was able to add that executable to the Taskbar, without any problems.
-- That´s the sole reason why this tool exists. :)
+- That´s the sole reason why this tool exists. ::grin::
 
 ### Requirements
 
