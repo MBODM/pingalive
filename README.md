@@ -35,4 +35,14 @@ There are not any other special requirements. The tool is written in Rust and th
 - The Windows version was: `Windows 10 Pro 21H2 Build 19044.2486`.
 - The tool was developed with `VS Code 1.74.2`, with installed `rust-analyzer` extension.
 
+The tool is compiled with the following compiler options in `cargo.toml` file:
+```
+[profile.release]
+opt-level = 'z'     # Optimize for size.
+lto = true          # Enable Link Time Optimization.
+codegen-units = 1   # Reduce number of codegen units to increase optimizations.
+panic = 'abort'     # Abort on panic.
+strip = true        # Strip symbols from binary.
+```
+
 #### Have fun.
