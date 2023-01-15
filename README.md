@@ -10,8 +10,8 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 - It just executes the Windows `ping.exe` with `-t 194.25.2.129` as parameters.
 - The IP address (_194.25.2.129_) is Telekom´s main DNS server.
 - Telekom is the largest ISP company in Germany.
-- This DNS server is rather stable and longliving (since more than 40 years now).
-- It is written in Rust and compiled on 64-bit Windows 10.
+- This DNS server is a rather stable and longliving server (since more than 40 years now).
+- The tool is written in Rust and compiled on 64-bit Windows 10.
 
 ### Why it exists
 It solely exists, because i wasn´t able to add a batch file (".bat") or a link (".lnk") to the Windows 10 TaskBar in a way it works properly. So i decided to quickly write a small executable, doing that job. Then i was able to easily add that executable to the TaskBar. That´s the only reason why this tool exists. :)
