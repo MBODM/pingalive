@@ -10,7 +10,7 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 - It just executes the Windows `ping.exe` with `-t 194.25.2.129` as parameters.
 - The IP address (_194.25.2.129_) is Telekom´s main DNS server.
 - Telekom is the largest ISP company in Germany.
-- That DNS server is rather stable and longliving (since more than 40 years now).
+- This DNS server is rather stable and longliving (since more than 40 years now).
 - It is written in Rust and compiled on 64-bit Windows 10.
 
 ### Why it exists
