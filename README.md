@@ -29,10 +29,10 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 There are not any other special requirements. The tool is written in Rust and the release binaries are natively compiled with `rustc` for the Windows x64 platform, assuming you are using some 64-bit Windows (and that's quite likely).
 
 ### Notes
-- The tool is written in `Rust`.
+- The tool is written in Rust.
+- The Rust version was: `Rust 1.65.0`.
 - The release binaries are compiled with `cargo`/`rustc` on a 64-bit Windows 10 machine.
 - The Windows version was: `Windows 10 Pro 21H2 Build 19044.2486`.
-- The Rust version was: `Rust 1.65.0`.
-- It was developed with `VS Code 1.74.2`, with installed `rust-analyzer` extension.
+- The tool was developed with `VS Code 1.74.2`, with installed `rust-analyzer` extension.
 
 #### Have fun.
