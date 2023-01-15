@@ -12,7 +12,7 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 - Telekom is the largest ISP company in Germany.
 - That DNS server is a rather stable and longliving server (since more than 40 years now).
 - The IP address of that server has never changed (and will never, in my opinion).
-- The tool is written in Rust and compiled on 64-bit Windows 10.
+- The tool is written in Rust and compiled on a 64-bit Windows 10 machine.
 
 ### Why it exists
 - I wasn´t able to successfully add a batch file (`.bat`) or a link (`.lnk`) to the Windows 10 Taskbar.
