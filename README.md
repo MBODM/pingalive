@@ -2,7 +2,7 @@
 A very tiny Windows command line tool, endlessly pinging a specific server.
 
 ### What it is
-It´s a very tiny (3 codelines) command line executable for Windows, written in Rust. It endlessly pings a specific server. It´s used for internet connection testing, for my personal use.
+It´s a very tiny (3 lines of code) command line executable for Windows, written in Rust. It endlessly pings a specific server. It´s used for internet connection testing, for my personal use.
 
 ### How it works
 - It just executes the Windows command line tool ´ping.exe´ with ´-t 194.25.2.129´ as parameters.
