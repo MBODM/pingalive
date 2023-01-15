@@ -7,7 +7,7 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 - It´s used for internet connection testing, for my personal use.
 
 ### How it works
-- It just executes the Windows command line tool ´ping.exe´ with ´-t 194.25.2.129´ as parameters.
+- It just executes the Windows command line tool `ping.exe` with `-t 194.25.2.129` as parameters.
 - The IP address "194.25.2.129" is Telekom´s main DNS server.
 - Telekom is the largest ISP company in Germany.
 - That DNS server is rather stable and longliving (since more than 40 years now).
