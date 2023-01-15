@@ -30,7 +30,7 @@ There are not any other special requirements. The tool is written in Rust and th
 
 ### Notes
 - The tool is written in Rust.
-- The Rust version was: `Rust 1.65.0`.
+- The Rust version was: `rustc 1.65.0`.
 - The release binaries are compiled with `cargo`/`rustc` on a 64-bit Windows 10 machine.
 - The Windows version was: `Windows 10 Pro 21H2 Build 19044.2486`.
 - The tool was developed with `VS Code 1.74.2`, with installed `rust-analyzer` extension.
