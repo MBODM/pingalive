@@ -16,9 +16,9 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 
 ### Why it exists
 - I wasn´t able to successfully add a batch file (`.bat`), nor a link (`.lnk`) to the Windows 10 TaskBar.
-- At least not in a way it works properly (maybe i am to stupid, but all tries had some issues).
-- So i decided to quickly write a tiny executable, doing that job instead.
-- Then i was able to easily add that executable to the TaskBar.
+- At least not in a way it works properly (maybe i´m just to stupid, but all tries had some issues).
+- So i decided to quickly write a tiny executable doing that job instead.
+- Then i was able to add that executable to the TaskBar, without any problems.
 - That´s the sole reason why this tool exists. :)
 
 ### Requirements
