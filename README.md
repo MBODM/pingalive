@@ -1,5 +1,5 @@
 # pingalive
-A very tiny command line tool, endlessly pinging a specific server.
+A very tiny Windows command line tool, endlessly pinging a specific server.
 
 ### What it is
 It´s a very tiny (3 codelines) command line executable for Windows, written in Rust. It endlessly pings a specific server. It´s used for internet connection testing, for my personal use.
