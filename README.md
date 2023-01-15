@@ -1,7 +1,7 @@
 # pingalive
 A very tiny Windows command line tool, endlessly pinging a specific server.
 
-![WAUZ](screenshot.png)
+![Screenshot](screenshot.png)
 
 ### What it is
 - It´s a very tiny (3 lines of code) command line executable for Windows, written in Rust.
