@@ -36,7 +36,7 @@ There are not any other special requirements. The tool is written in Rust and th
 - The tool was developed with `VS Code 1.74.2`, with installed `rust-analyzer` extension.
 
 The tool is compiled with the following compiler options in `cargo.toml` file:
-```
+```rust
 [profile.release]
 opt-level = 'z'     # Optimize for size.
 lto = true          # Enable Link Time Optimization.
