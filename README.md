@@ -2,7 +2,8 @@
 A very tiny Windows command line tool, endlessly pinging a specific server.
 
 ### What it is
-- It´s a very tiny (3 lines of code) command line executable for Windows, written in Rust.
+- It´s a very tiny (3 lines of code) command line executable for Windows.
+- It´s written in Rust.
 - It endlessly pings a specific server when executed.
 - It´s used for internet connection testing, for my personal use.
 
@@ -20,6 +21,13 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 - So i decided to quickly write a tiny executable doing that job instead.
 - Then i was able to add that executable to the Taskbar, without any problems.
 - That´s the sole reason why this tool exists. :grin:
+
+### Notes
+- The tool is written in Rust.
+- The release binaries are compiled with `cargo`/`rustc` on a 64-bit Windows 10 machine.
+- The Windows version was: `Windows 10 Pro 21H2 Build 19044.2486`.
+- The Rust version was: `Rust 1.65.0`.
+- It was developed with `VS Code 1.74.2`, with installed `rust-analyzer` extension.
 
 ### Requirements
 
