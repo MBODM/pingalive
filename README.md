@@ -15,7 +15,8 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 - The tool is written in Rust and compiled on 64-bit Windows 10.
 
 ### Why it exists
-It solely exists, because i wasn´t able to add a batch file (".bat") or a link (".lnk") to the Windows 10 TaskBar in a way it works properly. So i decided to quickly write a small executable, doing that job. Then i was able to easily add that executable to the TaskBar. That´s the only reason why this tool exists. :)
+- It solely exists, because i wasn´t able to add a batch file (".bat") or a link (".lnk") to the Windows 10 TaskBar in a way it works properly.
+- So i decided to quickly write a small executable, doing that job. Then i was able to easily add that executable to the TaskBar. That´s the only reason why this tool exists. :)
 
 ### Requirements
 
