@@ -10,7 +10,7 @@ A tiny command line tool for Windows, infinitely pinging a specific server (writ
 
 ### How it works
 - It just executes the Windows `ping.exe` with `-t 194.25.2.129` as parameters.
-- The IP address (_194.25.2.129_) is Telekom´s* main DNS server.
+- The IP address (`194.25.2.129`) is Telekom´s* main DNS server.
 - The `ping.exe` process is running standalone, in a separate window.
 
 *Telekom is the largest ISP company in Germany. Their main DNS server is a rather stable and longliving server (since nearly 30 years now). The IP address of that server has never changed (and will never, in my opinion). Therefore i´m using this specific IP address.
