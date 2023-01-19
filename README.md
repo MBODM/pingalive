@@ -32,7 +32,7 @@ There aren´t any other special requirements. The tool is written in Rust and th
 - The tool is developed with `VS Code 1.74.2` (with active `rust-analyzer` extension)
 - The tool is using a `cmd.exe /c start ping.exe` approach.
 - Approach-Reason1: Issues with Rust´s `BufRead` and non-UTF8 Windows console.
-- Approach-Reason2: Need for `ctrlc`, or `windows-rs` & `SetConsoleCtrlHandler`.
+- Approach-Reason2: Need for `ctrlc`, or `windows-rs` + `SetConsoleCtrlHandler`.
 - Approach-Reason3: Way more complexity (maintain child process, stdout, signals).
 - And sadly i also forgot what Sean Connery teached us: "_One ping only!_".
 
