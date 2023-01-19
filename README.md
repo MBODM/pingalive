@@ -30,7 +30,7 @@ There aren´t any other special requirements. The tool is written in Rust and th
 - Release binaries are compiled with `cargo`/`rustc` on a 64-bit Windows 10 machine
 - Used Windows OS version is `Windows 10 Pro 21H2 Build 19044.2486`
 - The tool is developed with `VS Code 1.74.2` (with active `rust-analyzer` extension)
-- Sadly i forgot what Sean Connery teached us: "One ping only!".
+- Sadly i forgot what Sean Connery teached us: "_One ping only!_".
 
 The release binaries are compiled with following compiler options in `cargo.toml` file:
 ```rust
