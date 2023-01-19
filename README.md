@@ -4,7 +4,7 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 ![Screenshot](screenshot.png)
 
 ### What it is
-- It´s a very tiny (60 lines of code) command line executable for Windows, written in Rust.
+- It´s a very tiny (~50 lines of code) command line executable for Windows, written in Rust.
 - When executed, it endlessly pings a specific server, until closed.
 - It´s used for internet connection testing, for my personal use.
 
