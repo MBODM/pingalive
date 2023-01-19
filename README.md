@@ -16,11 +16,7 @@ A very tiny Windows command line tool, endlessly pinging a specific server.
 *Telekom is the largest ISP company in Germany. Their main DNS server is a rather stable and longliving server (since nearly 30 years now). The IP address of that server has never changed (and will never, in my opinion). Therefore i´m using this specific IP address.
 
 ### Why it exists
-- I wasn´t able to successfully add a batch file (`.bat`) or a link (`.lnk`) to the Windows 10 Taskbar.
-- At least not in a way it works properly (maybe i´m just too stupid, but all tries had some issues).
-- So i decided to quickly write a tiny executable doing that job instead.
-- Then i was able to add that executable to the Taskbar, without any problems.
-- That´s the sole reason why this tool exists. :grin:
+I wasn´t able to successfully add a batch file (`.bat`) or a link (`.lnk`) to the Windows 10 Taskbar. At least not in a way it works properly (maybe i´m just too stupid, but all tries had some issues). So i decided to quickly write a tiny executable doing that job instead. Then i was able to add that executable to the Taskbar, without any problems. That´s the sole reason why this tool exists. :grin:
 
 ### Requirements
 
