@@ -30,6 +30,9 @@ There aren´t any other special requirements. The tool is written in Rust and th
 - Release binaries are compiled with `cargo`/`rustc` on a 64-bit Windows 10 machine
 - Used Windows OS version is `Windows 10 Pro 21H2 Build 19044.2486`
 - The tool is developed with `VS Code 1.74.2` (with active `rust-analyzer` extension)
+- The tool is using a `cmd.exe /c start ping.exe` approach.
+- Reason1 for above approach: Issues with Rust´s `BufRead` and the non-UTF8 Windows console.
+- Reason2 for above approach: The need of `ctrlc` crate, or `windows-rs` with `SetConsoleCtrlHandler`.
 - Sadly i forgot what Sean Connery teached us: "_One ping only!_".
 
 The release binaries are compiled with following compiler options in `cargo.toml` file:
