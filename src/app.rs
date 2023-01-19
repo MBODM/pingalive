@@ -4,4 +4,4 @@
 pub const NAME: &str = env!("CARGO_PKG_NAME");
 pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 pub const AUTHOR: &str = "MBODM";
-pub const DATE: &str = "2023-01-15";
+pub const DATE: &str = "2023-01-19";
