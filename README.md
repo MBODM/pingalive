@@ -1,5 +1,5 @@
 # pingalive
-A tiny command line tool for Windows, infinitely pinging a specific server (written in Go and Rust).
+A tiny command line tool for Windows, infinitely pinging a specific server (written in Rust).
 
 ![Screenshot](screenshot.png)
 
