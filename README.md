@@ -8,6 +8,8 @@ A tiny command line tool for Windows, infinitely pinging a specific server (writ
 - When executed, it endlessly pings a specific server, until closed.
 - It´s used for internet connection testing, for my personal use.
 
+Side note: There also exists a Go (golang) version of this tool. The tool is exactly the same is this one, just written in Go. Take a look at [pingalive-go](https://github.com/mbodm/pingalive-go) for more information.
+
 ### How it works
 - It just executes the Windows `ping.exe` with `-t 194.25.2.129` as parameters.
 - The IP address (`194.25.2.129`) is Telekom´s* main DNS server.
